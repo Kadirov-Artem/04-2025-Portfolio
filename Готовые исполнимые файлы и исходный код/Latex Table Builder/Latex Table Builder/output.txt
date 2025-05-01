@@ -1,0 +1,7 @@
+\begin{tabular}{||c|c||}
+\hline
+1 & 1 \\ \hline
+4 & 8 \\ \hline
+9 & 27 \\ \hline
+16 & 64 \\ \hline
+\end{tabular}
